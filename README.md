@@ -1,2 +1,1 @@
-# fonts-buildpack
-Adds fonts to Heroku
+Heroku buildpack for installing various fonts on an heroku instance.
