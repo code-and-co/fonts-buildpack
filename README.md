@@ -1,5 +1,5 @@
 Heroku buildpack for installing various fonts on an heroku instance.
 
-#### Generate font file
+#### Bundle fonts 
 
 `tar -czf fonts.tar.gz fonts`
